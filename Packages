@@ -1,0 +1,18 @@
+Package: bash
+Version: 4.3.30-1
+Depends: libc, libncurses
+Source: feeds/packages/utils/bash
+License: GPL-3.0+
+LicenseFiles: COPYING
+Section: utils
+Maintainer: Marcel Denia <naoir@gmx.net>
+Architecture: gemini
+Installed-Size: 335235
+Filename: bash_4.3.30-1_gemini.ipk
+Size: 335982
+MD5Sum: 470a15e8d91b107c51967de9d5e20a00
+SHA256sum: 36097a435b198c9ffeffc52b13acb8df6e418063aa08f0d071aa3427d6d2cc9d
+Description:  Bash is an sh-compatible command language interpreter that executes
+ commands read from the standard input or from a file. Bash also
+ incorporates useful features from the Korn and C shells (ksh and csh).
+
